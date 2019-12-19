@@ -3,6 +3,7 @@
 #include<iostream>
 #include<conio.h>
 using namespace std;
+// function for binary search
 int binary_search(int arr[],int key,int l,int r){
 	if(r>=1){
 		int mid=(l+r)/2;
