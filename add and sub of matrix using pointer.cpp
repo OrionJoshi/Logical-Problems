@@ -1,4 +1,4 @@
-//program to add and subtract two matrix using array and pointer
+  //program to add and subtract two matrix using array and pointer
 #include<stdio.h>
 #include<conio.h>
 int main()
