@@ -22,7 +22,8 @@ int isfull(stack *s);
 int main(void){
 	
 	int element,choice;
-	stack *s;
+	stack d;
+	stack *s=&d;
 
 	
 	
